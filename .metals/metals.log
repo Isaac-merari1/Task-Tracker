@@ -1,0 +1,12 @@
+[0m2021.09.28 07:28:45 INFO  Started: Metals version 0.10.5 in workspace 'C:\Users\HP\angular-folder\angular-crash' for client Visual Studio Code 1.58.2.[0m
+[0m2021.09.28 07:28:53 INFO  time: initialize in 8.37s[0m
+[0m2021.09.28 07:28:58 WARN  Build server is not auto-connectable.[0m
+[0m2021.09.28 07:28:58 WARN  no build tool detected in workspace 'C:\Users\HP\angular-folder\angular-crash'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+Sep 28, 2021 7:29:02 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+[0m2021.09.29 08:39:02 INFO  shutting down Metals[0m
+[0m2021.09.30 06:19:30 INFO  Started: Metals version 0.10.5 in workspace 'C:\Users\HP\angular-folder\angular-crash' for client Visual Studio Code 1.60.2.[0m
+[0m2021.09.30 06:19:35 INFO  time: initialize in 4.61s[0m
+[0m2021.09.30 06:19:36 WARN  Build server is not auto-connectable.[0m
+[0m2021.09.30 06:19:36 WARN  no build tool detected in workspace 'C:\Users\HP\angular-folder\angular-crash'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+[0m2021.09.30 22:24:05 INFO  shutting down Metals[0m
